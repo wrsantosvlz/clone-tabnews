@@ -1,2 +1,2 @@
-# clone-tablenews
+# clone-tabnews
 Meu primeiro projeto Git
